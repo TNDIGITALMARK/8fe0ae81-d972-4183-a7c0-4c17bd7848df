@@ -19,8 +19,8 @@ const geistMono = Geist_Mono({
 });
 
 export const metadata: Metadata = {
-  title: "Elegant Flora Boutique",
-  description: "Beautiful AI-powered website creation platform",
+  title: "Horizon Builders - Building Dreams, Realizing Futures",
+  description: "Professional construction and architectural services. Specializing in residential construction, commercial buildings, renovations, and custom home design since 2015.",
 };
 
 export default function RootLayout({
